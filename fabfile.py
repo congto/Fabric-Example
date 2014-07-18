@@ -5,8 +5,6 @@ from fabric.operations import sudo
 
 """ Provide all user and pass to automation ! """
 
-env.hosts = raw_input('Enter Host : ')
-env.user = raw_input('Enter User : ')
 mysql_pwd = raw_input('provide mysql database root password : ')
 wp_db_name = raw_input('provide wordpress database name : ')
 wp_user_name = raw_input('provide wordpress database user name : ')

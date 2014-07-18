@@ -16,8 +16,7 @@ Trước khi sử dụng :
 **Giới thiệu bài Lab**<br>
   trong lab này sẽ hướng dẫn mọi người sử dụng Fabric để cài đặt từ xa wordpress framework.<br><br>
 **Yêu Cầu các gói**<br>
-  -Trên máy remote : `ssh python2.6+ git`<br>
-  -trên máy host : `ssh`<br><br>
+> sudo apt-get install git
   
 Bắt đầu Cài đặt
 ---------------
