@@ -15,8 +15,9 @@ Trước khi sử dụng :
   
 **Giới thiệu bài Lab**<br>
   trong lab này sẽ hướng dẫn mọi người sử dụng Fabric để cài đặt từ xa wordpress framework.<br><br>
-**Yêu Cầu các gói**<br>
-> sudo apt-get install git
+**Yêu Cầu các gói**
+
+    sudo apt-get install git
   
 Bắt đầu Cài đặt
 ---------------
